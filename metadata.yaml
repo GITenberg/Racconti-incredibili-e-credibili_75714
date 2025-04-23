@@ -1,0 +1,34 @@
+_repo: Racconti-incredibili-e-credibili_75714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Panzacchi, Enrico
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '42056'
+    url: http://www.gutenberg.org/2009/agents/42056
+    wikipedia: https://it.wikipedia.org/wiki/Enrico_Panzacchi
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75714'
+language: it
+pgterms:marc905: 20240602081009panzacchi
+pgterms:marc906: '1885'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aRoma :$bPerino, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Coi Sordini -- Occhi Accusatori -- In Casa dell'Amico -- Cantores!
+  -- Primo Ricordo -- In Repubblica -- Dopo Dieci Anni -- Nella “Montagnola„.
+title: Racconti incredibili e credibili
+url: http://www.gutenberg.org/ebooks/75714
