@@ -1,5 +1,8 @@
 _repo: Racconti-incredibili-e-credibili_75714
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75714-h/images/cover.jpg
 creator:
   author:
     agent_name: Panzacchi, Enrico
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42056
     wikipedia: https://it.wikipedia.org/wiki/Enrico_Panzacchi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75714#Racconti-incredibili-e-credibili
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
